@@ -1,0 +1,38 @@
+.header {
+  border-bottom: 1px solid var(--primary-color);
+}
+
+.header .container {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 80px;
+}
+
+.logo {
+
+  font-size: 1.7rem;
+  font-weight: var(--fw-bold);
+  color: var(--white-color);
+}
+
+.nav-list {
+
+  display: flex;
+  gap: 40px;
+}
+
+.nav-list a {
+
+  font-size: var(--fs-md);
+  font-weight: var(--fw-medium);
+
+  transition: var(--transition);
+}
+
+.nav-list a:hover {
+
+  color: var(--primary-color);
+}

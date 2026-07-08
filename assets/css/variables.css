@@ -1,0 +1,39 @@
+:root {
+
+  /* Colors */
+
+  --primary-color: #428c00;
+  --white-color: #ffffff;
+  --black-color: #000000;
+
+  /* Typography */
+
+  --font-family: "Poppins", sans-serif;
+
+  /* Font Size */
+
+  --fs-sm: 14px;
+  --fs-md: 16px;
+  --fs-lg: 20px;
+  --fs-xl: 32px;
+  --fs-2xl: 48px;
+
+  /* Font Weight */
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  /* Border */
+
+  --radius: 10px;
+
+  /* Width */
+
+  --container-width: 1200px;
+
+  /* Transition */
+
+  --transition: 0.3s ease;
+}

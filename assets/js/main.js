@@ -1,0 +1,1 @@
+console.log("AlijewaLab Loaded Successfully.");
